@@ -1,2 +1,2 @@
 # catmuck.GitHub.io
-this is a website displaying my personal abilities and interests
+this is a website displaying my personal branding and interests
